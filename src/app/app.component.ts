@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-task';
+
+myimage:string = "assets/images/getty_869378032_t9lpmz.jpg";
+
 }
